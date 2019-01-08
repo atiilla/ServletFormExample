@@ -1,0 +1,9 @@
+2019-01-08 13:53:32.055:INFO:oejs.Server:jetty-8.1.22.v20160922
+2019-01-08 13:53:32.092:INFO:oejdp.ScanningAppProvider:Deployment monitor /home/intec/webProjects/ServletForm/target/cargo/configurations/jetty8x/webapps at interval 1
+2019-01-08 13:53:32.099:INFO:oejd.DeploymentManager:Deployable added: /home/intec/webProjects/ServletForm/target/cargo/configurations/jetty8x/webapps/cargocpc.war
+2019-01-08 13:53:32.153:INFO:oejw.WebInfConfiguration:Extract jar:file:/home/intec/webProjects/ServletForm/target/cargo/configurations/jetty8x/webapps/cargocpc.war!/ to /tmp/jetty-0.0.0.0-8080-cargocpc.war-_cargocpc-any-/webapp
+2019-01-08 13:53:32.280:INFO:oejpw.PlusConfiguration:No Transaction manager found - if your webapp requires one, please configure one.
+2019-01-08 13:53:32.706:INFO:oejdp.ScanningAppProvider:Deployment monitor /home/intec/webProjects/ServletForm/target/cargo/configurations/jetty8x/contexts at interval 1
+2019-01-08 13:53:32.706:INFO:oejd.DeploymentManager:Deployable added: /home/intec/webProjects/ServletForm/target/cargo/configurations/jetty8x/contexts/ServletForm.xml
+2019-01-08 13:53:32.752:INFO:oejpw.PlusConfiguration:No Transaction manager found - if your webapp requires one, please configure one.
+2019-01-08 13:53:32.887:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:8080
